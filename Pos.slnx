@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Pos.Application/Pos.Application.csproj" />
+  <Project Path="Pos.ConsoleUI/Pos.ConsoleUI.csproj" />
+  <Project Path="Pos.Domain/Pos.Domain.csproj" />
+  <Project Path="Pos.Infrastructure/Pos.Infrastructure.csproj" />
+  <Project Path="Pos.Tests/Pos.Tests.csproj" />
+</Solution>

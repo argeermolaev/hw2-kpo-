@@ -1,0 +1,17 @@
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\bin\Debug\net10.0\Pos.Infrastructure.deps.json
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\bin\Debug\net10.0\Pos.Infrastructure.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\bin\Debug\net10.0\Pos.Infrastructure.pdb
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\bin\Debug\net10.0\Pos.Application.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\bin\Debug\net10.0\Pos.Domain.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\bin\Debug\net10.0\Pos.Application.pdb
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\bin\Debug\net10.0\Pos.Domain.pdb
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\Pos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\Pos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\Pos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\Pos.Infrastructure.AssemblyInfo.cs
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\Pos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\Pos.Infr.75A01CEF.Up2Date
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\Pos.Infrastructure.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\refint\Pos.Infrastructure.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\Pos.Infrastructure.pdb
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Infrastructure\obj\Debug\net10.0\ref\Pos.Infrastructure.dll

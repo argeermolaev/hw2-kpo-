@@ -1,0 +1,15 @@
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\bin\Debug\net10.0\Pos.Application.deps.json
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\bin\Debug\net10.0\Pos.Application.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\bin\Debug\net10.0\Pos.Application.pdb
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\bin\Debug\net10.0\Pos.Domain.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\bin\Debug\net10.0\Pos.Domain.pdb
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\Pos.Application.csproj.AssemblyReference.cache
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\Pos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\Pos.Application.AssemblyInfoInputs.cache
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\Pos.Application.AssemblyInfo.cs
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\Pos.Application.csproj.CoreCompileInputs.cache
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\Pos.Appl.C60C9B19.Up2Date
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\Pos.Application.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\refint\Pos.Application.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\Pos.Application.pdb
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Application\obj\Debug\net10.0\ref\Pos.Application.dll

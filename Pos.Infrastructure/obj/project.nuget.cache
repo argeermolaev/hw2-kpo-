@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWmS24EwO8Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agerm\\Desktop\\вшэ\\кпо\\hw2\\Pos\\Pos.Infrastructure\\Pos.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agerm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0\\microsoft.extensions.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\agerm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

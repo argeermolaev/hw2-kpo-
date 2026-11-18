@@ -1,0 +1,13 @@
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\Pos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\Pos.Domain.AssemblyInfoInputs.cache
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\Pos.Domain.AssemblyInfo.cs
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\Pos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\bin\Debug\net10.0\Pos.Domain.deps.json
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\bin\Debug\net10.0\Pos.Domain.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\bin\Debug\net10.0\Pos.Domain.pdb
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\Pos.Domain.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\refint\Pos.Domain.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\Pos.Domain.pdb
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\ref\Pos.Domain.dll
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\Pos.Domain.csproj.Up2Date
+C:\Users\agerm\Desktop\вшэ\кпо\hw2\Pos\Pos.Domain\obj\Debug\net10.0\Pos.Domain.csproj.AssemblyReference.cache
